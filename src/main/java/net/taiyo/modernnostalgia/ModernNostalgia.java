@@ -16,6 +16,7 @@ public class ModernNostalgia {
     public static final String MOD_ID = "modernnostalgia";
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    // very important comment
     public ModernNostalgia() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
